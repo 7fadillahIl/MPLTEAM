@@ -1,0 +1,49 @@
+.myBG {
+  height: 100vh;
+  background: url(../assets/images/bg/mainbg.jpg);
+  background-size: cover;
+}
+
+.intro {
+  height: 300px;
+  display: flex;
+  justify-content: end;
+  align-items: end;
+}
+
+.title {
+  font-size: 3rem;
+  font-weight: 800;
+  line-height: 1;
+  text-shadow: 2px 2px black;
+  letter-spacing: 4px;
+}
+
+.mplid {
+  height: auto;
+  background: url(../assets/images/bg/bgmplindo.jpg);
+  background-size: cover;
+}
+
+.mplph {
+  height: auto;
+  background: url(../assets/images/bg/bgmplph.jpg);
+  background-size: cover;
+}
+
+.mplmy {
+  height: auto;
+  background: url(../assets/images/bg/bgmplmy.jpg);
+  background-size: cover;
+}
+
+.mplImage {
+  height: auto;
+  background-color: black;
+  margin: 5px;
+  padding: 5px;
+}
+
+.images {
+  height: 500px;
+}
