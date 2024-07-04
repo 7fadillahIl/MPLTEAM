@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/MPLTEAM/static/css/main.21367e93.css",
+    "main.js": "/MPLTEAM/static/js/main.ce771df0.js",
+    "static/js/453.44561a2a.chunk.js": "/MPLTEAM/static/js/453.44561a2a.chunk.js",
+    "static/media/bgmplindo.jpg": "/MPLTEAM/static/media/bgmplindo.3d059d18706f1fe5d2f6.jpg",
+    "static/media/mainbg.jpg": "/MPLTEAM/static/media/mainbg.e22199fa474827cb226a.jpg",
+    "static/media/blacklist.jpg": "/MPLTEAM/static/media/blacklist.4152fbc0748c3973ea94.jpg",
+    "static/media/tnc.jpg": "/MPLTEAM/static/media/tnc.2be3adc03b1d8e391cba.jpg",
+    "static/media/ae.png": "/MPLTEAM/static/media/ae.71525cbb151a600a6004.png",
+    "static/media/evos.png": "/MPLTEAM/static/media/evos.44428c4f323030dd135b.png",
+    "static/media/rrq.png": "/MPLTEAM/static/media/rrq.8f4bce68ae7c5d9c2f0b.png",
+    "static/media/dewa.png": "/MPLTEAM/static/media/dewa.27d4c44cd8f0e3001a72.png",
+    "static/media/tlid.png": "/MPLTEAM/static/media/tlid.af222e2c1e8835861f0d.png",
+    "static/media/Screenshot 2024-07-03 185224.png": "/MPLTEAM/static/media/Screenshot 2024-07-03 185224.fdda8f10c12d764b9130.png",
+    "static/media/geekfam.png": "/MPLTEAM/static/media/geekfam.d7982a0dd2af7a8c7be4.png",
+    "static/media/btr.png": "/MPLTEAM/static/media/btr.100e9f5c6835a219a569.png",
+    "static/media/onic.png": "/MPLTEAM/static/media/onic.e4075ebaf9653e773632.png",
+    "static/media/echo.jpg": "/MPLTEAM/static/media/echo.3e2600f4bd72b63d1feb.jpg",
+    "static/media/rbl.png": "/MPLTEAM/static/media/rbl.1b9efb3b90481c17edfb.png",
+    "static/media/todak.jpg": "/MPLTEAM/static/media/todak.71ddec2b7f10c4088b0b.jpg",
+    "static/media/onicph.jpg": "/MPLTEAM/static/media/onicph.71cb213160278141a5b5.jpg",
+    "static/media/bgmplph.jpg": "/MPLTEAM/static/media/bgmplph.364958dc4b4233eb5560.jpg",
+    "static/media/bgmplmy.jpg": "/MPLTEAM/static/media/bgmplmy.e97a34561a401643687e.jpg",
+    "static/media/omega.jpg": "/MPLTEAM/static/media/omega.b3e09fe00f22f87c4d55.jpg",
+    "static/media/selangor.jpg": "/MPLTEAM/static/media/selangor.c5e38dba1fcae276fd8b.jpg",
+    "static/media/rsg ph.jpg": "/MPLTEAM/static/media/rsg ph.d3b2b7e83e9fd1dab3be.jpg",
+    "static/media/bren.jpg": "/MPLTEAM/static/media/bren.9958b7cbb7811e43bcc5.jpg",
+    "static/media/minana.jpeg": "/MPLTEAM/static/media/minana.35239e7cf6364a1f3003.jpeg",
+    "index.html": "/MPLTEAM/index.html",
+    "main.21367e93.css.map": "/MPLTEAM/static/css/main.21367e93.css.map",
+    "main.ce771df0.js.map": "/MPLTEAM/static/js/main.ce771df0.js.map",
+    "453.44561a2a.chunk.js.map": "/MPLTEAM/static/js/453.44561a2a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21367e93.css",
+    "static/js/main.ce771df0.js"
+  ]
+}
